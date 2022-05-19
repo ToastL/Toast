@@ -1,3 +1,5 @@
+# this is the basic syntax and what i hope it will eventually look like
+
 import IO
 
 fn sum = int num1, int num2 > int {
